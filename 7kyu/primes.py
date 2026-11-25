@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/5681bc8d17af37f50e000015
 def primes(start: int, end: int) -> list[int] | None:
     numbers = list(range(start, end + 1))
     result = []

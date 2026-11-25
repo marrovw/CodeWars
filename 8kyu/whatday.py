@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
 def whatday(num):
     if num == 1:
         return 'Sunday'

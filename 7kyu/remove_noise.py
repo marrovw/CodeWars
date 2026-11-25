@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/5681cf0be812b41721000034
 def remove_noise(st):
     noise = '%$&/#·@|º\ª'
     result = []

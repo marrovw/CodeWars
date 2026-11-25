@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/57096af70dad013aa200007b
 def logical_calc(array, op):
     x = array[0]
     for i in array[1:]:

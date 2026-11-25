@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1
 def array_madness(a,b):
 
     sum_of_the_squares = 0
